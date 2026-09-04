@@ -1,1 +1,1 @@
-# FitPro-Gym
+# FitPro-Gym-SQL-Project
