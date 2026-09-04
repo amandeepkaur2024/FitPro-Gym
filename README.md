@@ -68,7 +68,7 @@ Basic understanding of SQL
 # Steps
 1. **Clone the Repository**:
 ```bash
-   
+   git clone https://github.com/amandeepkaur2024/FitPro-Gym
    ```
 2. **Set Up the Database**:
 * Create the `members`, `memberships`, and `visits` tables as described in the schema above, and load in the sample data.
