@@ -17,12 +17,20 @@ Welcome to my first SQL project, where I analyze real-time gym data from FitPro 
 This project aims to demonstrate essential SQL skills by analyzing a dataset from FitPro Gym. Using SQL, I explored membership details, member demographics, and visit patterns to derive actionable insights. This project showcases fundamental SQL techniques, including creating tables, writing queries, and analyzing data.
 
 # Project Structure
-#* SQL Scripts: Code to create the database schema and queries for analysis.
-* Dataset: Real-time data on gym visits, membership, and member demographics.
-* Analysis: SQL queries solving practical business problems, each one crafted to address specific questions.
+* **SQL Scripts**: Code to create the database schema and queries for analysis.
+* **Dataset**: Real-time data on gym visits, membership, and member demographics.
+* **Analysis**: SQL queries solving practical business problems, each one crafted to address specific questions.
 
 # Database Schema
 Here’s an overview of the database structure:
 
 # 1. Members Table
-** member_id:
+* **member_id**: Unique identifier for each member
+* **name**: Name of the member
+# 2. Memberships Table
+* **member_id**: Unique identifier linked to the `members` table
+* **age**: Age of the member
+* **gender**: Gender of the member ('M' or 'F')
+* **membership_type**: Type of membership (e.g., Monthly, Quarterly)
+* **join_date**: Date when the member joined
+* **status**: Membership status (e.g., Active, Cancelled)
