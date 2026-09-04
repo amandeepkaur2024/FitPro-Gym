@@ -17,7 +17,7 @@ Welcome to my first SQL project, where I analyze real-time gym data from FitPro 
 This project aims to demonstrate essential SQL skills by analyzing a dataset from FitPro Gym. Using SQL, I explored membership details, member demographics, and visit patterns to derive actionable insights. This project showcases fundamental SQL techniques, including creating tables, writing queries, and analyzing data.
 
 # Project Structure
-* SQL Scripts: Code to create the database schema and queries for analysis.
+** SQL Scripts: Code to create the database schema and queries for analysis.
 * Dataset: Real-time data on gym visits, membership, and member demographics.
 * Analysis: SQL queries solving practical business problems, each one crafted to address specific questions.
 
