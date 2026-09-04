@@ -6,7 +6,6 @@ Welcome to my first SQL project, where I analyze real-time gym data from FitPro 
 # Table of Contents
 * [Introduction](#introduction)
 * [Project Structure](#project structure)
-* [Project Structure](#project structure)
 * [Database Schema](#database schema)
 * [Business Problems](#business problems)
 * [SQL Queries & Analysis](#sql queries & analysis)
