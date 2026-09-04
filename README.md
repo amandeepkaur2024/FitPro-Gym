@@ -23,5 +23,6 @@ This project aims to demonstrate essential SQL skills by analyzing a dataset fro
 
 # Database Schema
 Here’s an overview of the database structure:
-**1. Members Table
-* member_id:
+
+# 1. Members Table
+** member_id:
