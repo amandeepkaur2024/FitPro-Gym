@@ -80,6 +80,3 @@ Basic understanding of SQL
 If you have any questions or feedback, feel free to create an issue or reach out!
 ---
 
-# Contact Me
-Resume
-[Email](kauramandeep1620@gmail.com)
